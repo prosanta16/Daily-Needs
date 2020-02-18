@@ -1,2 +1,2 @@
 # Daily-Needs
-Web based project developed by me and my friend
+Web based project using PHP,JavaScript,MYSQL.
